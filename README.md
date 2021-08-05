@@ -1,1 +1,0 @@
-# my-device-dimension
