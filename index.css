@@ -1,0 +1,12 @@
+ul{
+    list-style-type: none;
+}
+
+body{
+    background-color: black;
+    color: rgba(255, 255, 255, 0.623);
+}
+
+a{
+    color: #1e8bda;
+}
